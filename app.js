@@ -1,7 +1,6 @@
 // ! Exercise 1:
 // a. Use the `map()` method to iterate over the provided `nums` array
 
-import { CommandStartedEvent } from "mongodb";
 
 // b. Use the callback function of the `map()` method you wrote to
 //    create a new array where each value is multiplied by 2.
